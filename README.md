@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2d6a5f&height=200&section=header&text=Zayyan%20Zaidi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20|%20Backend%20&%20Database-Focused%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zayyan%20Zaidi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20|%20Backend%20&%20Database-Focused%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2D6A5F&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+actually+work;Data+Structures+%26+Database-Driven+Development;Turning+ideas+into+clean%2C+working+software;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+actually+work;Data+Structures+%26+Database-Driven+Development;Turning+ideas+into+clean%2C+working+software;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=ZayyanZaidi&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -64,10 +66,10 @@ My work includes full-stack web applications, database-centric systems, and logi
 <div align="center">
 
 <a href="https://github.com/ZayyanZaidi/lucky-box">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayyanZaidi&repo=lucky-box&theme=tokyonight&title_color=2D6A5F&icon_color=2D6A5F&border_color=2D6A5F" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayyanZaidi&repo=lucky-box&theme=radical&title_color=A78BFA&icon_color=A78BFA&border_color=302b63&bg_color=0d1117" />
 </a>
 <a href="https://github.com/ZayyanZaidi/Intelligent-Trash-Sorting-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayyanZaidi&repo=Intelligent-Trash-Sorting-System&theme=tokyonight&title_color=2D6A5F&icon_color=2D6A5F&border_color=2D6A5F" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayyanZaidi&repo=Intelligent-Trash-Sorting-System&theme=radical&title_color=A78BFA&icon_color=A78BFA&border_color=302b63&bg_color=0d1117" />
 </a>
 
 </div>
@@ -122,10 +124,12 @@ NED University of Engineering & Technology
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZayyanZaidi&show_icons=true&theme=tokyonight&title_color=2D6A5F&icon_color=2D6A5F&text_color=c9d1d9&border_color=2D6A5F&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZayyanZaidi&theme=tokyonight&background=0D1117&stroke=2D6A5F&ring=2D6A5F&fire=2D6A5F&currStreakLabel=2D6A5F&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZayyanZaidi&show_icons=true&theme=radical&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&border_color=302b63&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayyanZaidi&layout=compact&theme=radical&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&border_color=302b63&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayyanZaidi&layout=compact&theme=tokyonight&title_color=2D6A5F&text_color=c9d1d9&border_color=2D6A5F&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZayyanZaidi&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="98%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ZayyanZaidi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="98%"/>
 
 </div>
 
@@ -143,6 +147,5 @@ NED University of Engineering & Technology
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a5f,100:1e2327&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
-
