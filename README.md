@@ -96,7 +96,7 @@ A simulation system that applies a circular double-ended queue (Deque) to model 
 
 **Bachelor of Science in Software Engineering**
 NED University of Engineering & Technology
-*Expected Graduation: 2026*
+*Expected Graduation: 2027*
 
 ---
 
