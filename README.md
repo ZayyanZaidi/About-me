@@ -22,7 +22,7 @@
 
 ### 👋 About Me
 
-I am a third-year Software Engineering student with a strong foundation in **backend development**, **database systems**, and **data-structure–driven problem solving**. I focus on building practical, well-structured software systems rather than purely academic exercises.
+I am a final-year Software Engineering student with a strong foundation in **backend development**, **database systems**, and **data-structure–driven problem solving**. I focus on building practical, well-structured software systems rather than purely academic exercises.
 
 My work includes full-stack web applications, database-centric systems, and logic-intensive projects where performance, correctness, and clean design matter. I am actively seeking internship and entry-level freelance opportunities where I can contribute, learn, and grow as a software engineer.
 
@@ -30,7 +30,7 @@ My work includes full-stack web applications, database-centric systems, and logi
 
 | 🎯 Role | 🏫 Institution | 📅 Graduation |
 |:---:|:---:|:---:|
-| Software Engineering Student | NED University of Engineering & Technology | Expected 2026 |
+| Software Engineering Student | NED University of Engineering & Technology | Expected 2027 |
 
 </div>
 
